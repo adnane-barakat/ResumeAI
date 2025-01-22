@@ -1,0 +1,4 @@
+.Maincontent{
+    display:flex;
+    flex-direction: column;
+}
